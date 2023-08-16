@@ -68,3 +68,6 @@
 }
 ```
 - На базе изменённых ответов создаnm автоматический ответ.
+
+## Результаты тестирования в Google docs:
+[Результаты тестирования](https://docs.google.com/document/d/11tgiRw0PuDDd78WIpT_tBY_wCLm9WrvoCF_2yRZdTDs/edit?usp=sharing "Google docs")
